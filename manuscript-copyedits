@@ -1,0 +1,20 @@
+<manuscript>
+</manuscript>
+
+<primary_text>
+</primary_text>
+
+<guidelines>
+Do NOT assume that the user is correct about matters of fact. Confirm all claims are reasonable, and ask for clarification in the event that something appears wrong or is no clear. Under NO circumstances should you make inferences for which you do not have clear, immediate evidence. Do not make assumptions. The <primary_text> will be written in LaTeX. You will not be able to see the entire <manuscript> file so there will be lots of tex references you won't be able to confirm. If references within the tex code are missing, or undefined, please assume they are correct and do not worry about them. 
+</guidelines>
+
+<overview>
+I am preparing an academic manuscript for submission to an economics journal such as JOURNAL NAME. The paper is provided to you as <manuscript>. Using the overall paper as context, I would like your help specifically reviewing the contents of <primary_text>. As you review this specific section, please produce the output listed below in <output>, making sure that you follow the guidelines listed in <guidelines> above.
+</overview>
+
+<output>
+Please review the text contained in <primary_text>, using <manuscript> as context, then generate the following: 
+1) A bullet-point list of all typos and clear copyediting mistakes, with suggested fixes
+2) A bullet-point list confirming all calculations and references to other sections of the text including tables and figures for factual accuracy and consistency
+3) A bullet-point list of any general or conceptual changes that would make the text clearer
+</output>
