@@ -1,7 +1,13 @@
 <manuscript>
+
+{INSERT: full PDF manuscript file}
+
 </manuscript>
 
 <primary_text>
+
+{INSERT: tex version of text you'd like to copyedit}
+
 </primary_text>
 
 <guidelines>
@@ -9,7 +15,7 @@ Do NOT assume that the user is correct about matters of fact. Confirm all claims
 </guidelines>
 
 <overview>
-I am preparing an academic manuscript for submission to an economics journal such as JOURNAL NAME. The paper is provided to you as <manuscript>. Using the overall paper as context, I would like your help specifically reviewing the contents of <primary_text>. As you review this specific section, please produce the output listed below in <output>, making sure that you follow the guidelines listed in <guidelines> above.
+I am preparing an academic manuscript for submission to an economics journal such as {INSERT - journal name}. The paper is provided to you as <manuscript>. Using the overall paper as context, I would like your help specifically reviewing the contents of <primary_text>. As you review this specific section, please produce the output listed below in <output>, making sure that you follow the guidelines listed in <guidelines> above.
 </overview>
 
 <output>
