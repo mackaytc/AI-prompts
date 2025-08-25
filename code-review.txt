@@ -6,14 +6,14 @@
 
 <overview>
 
-Your goal is to conduct a code review of the attached <code_file> file subject to the guidelines stated in <guidelines>. You will produce the output listed in <output>. I have provided you with data cleaning and estimation code for an empirical economics research project. The goal of this project to produce analysis as part of a manuscript that will be submitted to an economics journal. In this code review, you will confirm that all code is free of errors and accomplishes the intended tasks. Do not hesitate to ask clarifying questions to help your review. If you are unclear about what a section of code does, or what an important input looks like, please ask. 
+Your goal is to conduct a code review of the attached <code_file> file subject to the guidelines stated in <guidelines>. You will produce the output listed in <output>. I have provided you with data cleaning and estimation code for an empirical economics research project. The goal of this project is to produce analysis as part of a manuscript that will be submitted to an economics journal. In this code review, you will confirm that all code is free of errors and accomplishes the intended tasks. Do not hesitate to ask clarifying questions to help your review. If you are unclear about what a section of code does, or what an important input looks like, please ask. 
 
 </overview>
 
 <output>
 
-You will evaluate <code_file> and produce the following output at bullet-pointed lists while closely following the context guidelines in <overview> and <guidelines>:
-1) A list of any clear errors or bugs, with suggested fixed. 
+You will evaluate <code_file> and produce the following output as bullet-pointed lists while closely following the context guidelines in <overview> and <guidelines>:
+1) A list of any clear errors or bugs, with suggested fixes. 
 2) A list of copyediting and clarity issues within the comments, with suggested fixes.
 3) A brief statement confirming the accuracy of the header information (i.e., does the list of inputs and outputs actually match what the file loads/creates?). If there are issues, provide a bullet point list of suggested fixes.
 4) A list of any general areas where the code could be improved to make data handling safer, prevent merge issues, etc.
@@ -30,7 +30,7 @@ You will evaluate <code_file> and produce the following output at bullet-pointed
 - In particular, the code will only be run on existing data sets and not new data sets with potentially different structures, missing values, etc. 
 - Please ask the user any questions necessary to clarify your assumptions, evaluations, and overall model of what the code is intended to do. 
 - Assume that the user will check for obvious data handling issues such as negative values before taking logs, etc. but pay careful attention to potential "hidden" issues such as observations being dropped during merges, etc.
-- If you see hardcoded file references / other global variables/macros, simply list them but do not worry about where they have been defined - assume that the exist/are defined as part of the project workflow.
+- If you see hardcoded file references / other global variables/macros, simply list them but do not worry about where they have been defined - assume that they exist/are defined as part of the project workflow.
 
 </guidelines>
 
