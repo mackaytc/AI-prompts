@@ -11,7 +11,7 @@
 </primary_text>
 
 <guidelines>
-Do NOT assume that the user is correct about matters of fact. Confirm all claims are reasonable, and ask for clarification in the event that something appears wrong or is no clear. Under NO circumstances should you make inferences for which you do not have clear, immediate evidence. Do not make assumptions. The <primary_text> will be written in LaTeX. You will not be able to see the entire <manuscript> file so there will be lots of tex references you won't be able to confirm. If references within the tex code are missing, or undefined, please assume they are correct and do not worry about them. 
+Do NOT assume that the user is correct about matters of fact. You should check all claims to ensure they are reasonable, and ask for clarification in the event that something appears wrong or is not clear. Under NO circumstances should you make inferences for which you do not have clear, immediate evidence. Do not make assumptions. Do not cite academic literature without inclusion a reference and valid DOI. The <primary_text> will be written in LaTeX. You will not be able to see the entire <manuscript> file so there will be lots of tex references you won't be able to confirm. If references within the tex code are missing, or undefined, please assume they are correct and do not worry about them. 
 </guidelines>
 
 <overview>
